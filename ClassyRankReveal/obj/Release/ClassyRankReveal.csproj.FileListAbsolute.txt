@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Release\ClassyRankReveal.exe.config
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Release\ClassyRankReveal.exe
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Release\ClassyRankReveal.pdb
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.Properties.Resources.resources
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.exe
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.pdb
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.MainForm.resources

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Debug\ClassyRankReveal.exe.config
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Debug\ClassyRankReveal.exe
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Debug\ClassyRankReveal.pdb
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Debug\ClassyRankReveal.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Debug\ClassyRankReveal.MainForm.resources
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Debug\ClassyRankReveal.Properties.Resources.resources
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Debug\ClassyRankReveal.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Debug\ClassyRankReveal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Debug\ClassyRankReveal.exe
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Debug\ClassyRankReveal.pdb
