@@ -53,7 +53,7 @@ namespace ClassyRankReveal
         }
 
 
-        string[] TeamNums = new string[] { "Connecting", "Spectator", "Counter-Terrorist", "Terrorist" };
+        string[] TeamNums = new string[] { "Connecting", "Spectator",  "Terrorist" , "Counter-Terrorist"};
 
         public string GetTeamName()
         {
