@@ -8,3 +8,6 @@ C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyR
 C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.exe
 C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.pdb
 C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.MainForm.resources
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\bin\Release\Newtonsoft.Json.xml
+C:\Users\user\source\repos\ClassyRankReveal\ClassyRankReveal\obj\Release\ClassyRankReveal.csproj.CopyComplete

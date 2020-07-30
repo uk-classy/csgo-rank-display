@@ -22,6 +22,7 @@ namespace ClassyRankReveal
             }
             else
             {
+                Api.GetOffsetsFromWeb();
                 Mem = new Memory(CsgoList[0]);
                 MemOffsets.ClientDLLAddress = Mem.GetModuleAddress("client.dll");
                 MemOffsets.EngineDLLAddress = Mem.GetModuleAddress("engine.dll");
