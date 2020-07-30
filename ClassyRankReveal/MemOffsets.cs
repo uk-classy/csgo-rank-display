@@ -19,7 +19,7 @@ namespace ClassyRankReveal
         public static int ClientStatePointer { get; set; } = 0x58ADD4;
         public static int ClientStatePlayerInfo { get; set; } = 0x52B8;
 
-        public static int PlayerResourcePointer { get; set; } = 0x3182D70;
+        public static int PlayerResourcePointer { get; set; } = 0x3182DD0;
 
 
         public static int TeamOffset { get; set; } = 0xF4;

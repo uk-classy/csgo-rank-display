@@ -42,6 +42,11 @@ namespace ClassyRankReveal
                             MemOffsets.ClientStatePlayerInfo = Convert.ToInt32(value);
                         }
 
+                        if (name == "dwPlayerResource")
+                        {
+                            MemOffsets.PlayerResourcePointer = Convert.ToInt32(value);
+                        }
+
                     }
 
                     foreach (JProperty x in parsed["netvars"])
